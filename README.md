@@ -20,7 +20,9 @@ Step 6: Using the starter code we do DISTINCT ON and we create another table "un
 ![alt text](https://github.com/ramyasnl/Module7PHEmployeeSubmission/blob/main/screenshots/unique%20titles2.png)<br/> 
 
 Step 7: Since we need the count of employees ready for retirement by their current title  we use GRUOPBY & COUNT to generate "retiring_titles.csv"</br>
-add picture
+
+![alt text](https://github.com/ramyasnl/Module7PHEmployeeSubmission/blob/main/screenshots/retiring_titles3.png)<br/>
+
 Step 8 : Mentorship Eligibility table is created from 'employees' and 'titles' <br/>
 Step 9 : Using DISTINCT ON ,ORDER BY <INTO we created the 'mentorship_eligibility_table'<br/>
 Step 10 : Table we created is exported to 'mentorship_eligibility.csv' 
