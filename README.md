@@ -26,4 +26,4 @@ Step 7: Since we need the count of employees ready for retirement by their curre
 Step 8 : Mentorship Eligibility table is created from 'employees' and 'titles' <br/>
 Step 9 : Using DISTINCT ON ,ORDER BY <INTO we created the 'mentorship_eligibility_table'<br/>
 Step 10 : Table we created is exported to 'mentorship_eligibility.csv' 
-![alt text]()<br/>
+![alt text](https://github.com/ramyasnl/Module7PHEmployeeSubmission/blob/main/screenshots/mentorship.png)<br/>
