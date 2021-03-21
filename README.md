@@ -5,7 +5,7 @@ Also we write a report that summarizes the analysis and helps prepare Bobby’s 
 ##Strategic analysis  ##<br/>
 Data inputs are in 6 csv files ,for the above analysis we need only 3 of them employees,dept_emp,titles.<br/>
 
-<img src="(https://github.com/ramyasnl/Module7PHEmployeeSubmission/blob/main/screenshots/ERD1.png" width="200" height="200"/>
+<img src="(https://github.com/ramyasnl/Module7PHEmployeeSubmission/blob/main/screenshots/ERD1.png" width="500" height="500"/>
 
 
 
