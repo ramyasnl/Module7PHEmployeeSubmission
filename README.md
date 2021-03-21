@@ -60,7 +60,7 @@ by freshly recruteing and training 40 K new members, which can be done through m
 
 From the mentorship table we have created we have 1.5K mentorship eligible candidates to handle the forthcoming “silver tsunami” ,<br/>
 which can be a  warning to speed up the recruitment process and to use the available knowledge base to train the new comers.<br/>
-Our analysis can be improvised by extracting the number of beginners inside the company according to which the number of recruitment can be precised<br/>
+Our analysis can be improvised by extracting the number of beginners inside the company according to which the number of recruitment can be precised.<br/>
 
  
  
