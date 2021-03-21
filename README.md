@@ -1,11 +1,11 @@
 # Module7PHEmployeeSubmission<br/>
 
-#Overview of the analysis#<br/>
+# Overview of the analysis #<br/>
 
 Our aim  is to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program using postgresql. <br/>
 Also we write a report that summarizes the analysis and helps prepare Bobby’s manager for the “silver tsunami” as many current employees reach retirement age.<br/>
 
-##Strategic analysis  ##<br/>
+## Strategic analysis and results ##<br/>
 
 Data inputs are in 6 csv files ,for the above analysis we need only 3 of them employees,dept_emp,titles.<br/>
 
@@ -38,7 +38,7 @@ Step 10 : Table we created is exported to 'mentorship_eligibility.csv'
 
 ![alt text](https://github.com/ramyasnl/Module7PHEmployeeSubmission/blob/main/screenshots/mentorship.png)<br/>
 
-##Technical Difficulties and Alternate method##<br/>
+## Technical Difficulties and Alternate method ##<br/>
 
 i.   While creating our retirement_titles table we got repetition of the same employee with different title on differnt time period , <br/>
      we filtered the data by taking only the latest title by using the DISTINCT ON function .<br/>
@@ -46,4 +46,11 @@ ii.  This can also be done by PARTITION BY function .<br/>
 iii. While creating our mentorship_eligibility we used DISTINCT ON to filterout the first occurence of the emp_no , </br>
      while filtering the data by birthdate dont miss that they are current employee .<br/>
      
+## Result Summary ##
+
+ <img src="https://github.com/ramyasnl/Module7PHEmployeeSubmission/blob/main/screenshots/retiring_titles3.png" width="500" height="400"/><br/>
+From this table we come to the conclusion that 30K of  Senior Engineers , Senior Staff are going to move out , 12 - 14 K of Engineer,Staff will be retiring in 
+the future , the best way to handle this is by promoting the eligible current employees in the role of Engineer ,Staff as Seniors and filling their places by 
+freshly recruteing and training 40 K new members, which can be done through multiple phases of recruitment.
+
 
