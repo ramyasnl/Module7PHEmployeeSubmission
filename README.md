@@ -38,5 +38,11 @@ Step 10 : Table we created is exported to 'mentorship_eligibility.csv'
 
 ![alt text](https://github.com/ramyasnl/Module7PHEmployeeSubmission/blob/main/screenshots/mentorship.png)<br/>
 
-
+##Technical Difficulties and Alternate method##<br/>
+i. While creating our retirement_titles table we got repetition of the same employee with different title on differnt time period ,we filtered the data by taking only the <br/>
+   latest title by using the DISTINCT ON function .<br/>
+ii.This can also be done by PARTITION BY function .<br/>
+iii.While creating our mentorship_eligibility we used DISTINCT ON to filterout the first occurence of the emp_no ,while filtering the data by birthdate dont miss that </br>
+     they are current employee .<br/>
+     
 
