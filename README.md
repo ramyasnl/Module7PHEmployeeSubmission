@@ -12,7 +12,8 @@ Data inputs are in 6 csv files ,for the above analysis we need only 3 of them em
 Step 1: Create schema tables in our database and fill them up with the data from corresponding csv files.<br/>
 Step 2: Create a new table called'retirement_titles' by combining the columns from 'employee_table' and 'titles'and exported as corresponding csv<br/>
 
-![alt text](https://github.com/ramyasnl/Module7PHEmployeeSubmission/blob/main/screenshots/retirement_title1.png)<br/> 
+<img src="https://github.com/ramyasnl/Module7PHEmployeeSubmission/blob/main/screenshots/retirement_title1.png" width="700" height="500"/>
+
 
 Step 3: The commmon column for both the tables is 'emp_no',we join both with that as primary key .<br/>
 Step 4: Filter the data on the birth_date column to retrieve the employees who were born between 1952 and 1955. Then, order by the employee number.</br>
