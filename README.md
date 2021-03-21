@@ -49,8 +49,15 @@ iii. While creating our mentorship_eligibility we used DISTINCT ON to filterout 
 ## Result Summary ##
 
  <img src="https://github.com/ramyasnl/Module7PHEmployeeSubmission/blob/main/screenshots/retiring_titles3.png" width="500" height="400"/><br/>
-From this table we come to the conclusion that 30K of  Senior Engineers , Senior Staff are going to move out , 12 - 14 K of Engineer,Staff will be retiring in 
-the future , the best way to handle this is by promoting the eligible current employees in the role of Engineer ,Staff as Seniors and filling their places by 
-freshly recruteing and training 40 K new members, which can be done through multiple phases of recruitment.
+ 
+From this table we come to the conclusion that 30K of  Senior Engineers , Senior Staff are going to move out ,<br/>
+12 - 14 K of Engineer,Staff will be retiring in the future ,<br/>
+the best way to handle this is by promoting the eligible current employees in the role of Engineer ,Staff as Seniors and filling their places<br/> 
+by freshly recruteing and training 40 K new members, which can be done through multiple phases of recruitment.<br/>
+
+<img src="https://github.com/ramyasnl/Module7PHEmployeeSubmission/blob/main/screenshots/retiring_titles3.png" width="500" height="400"/><br/>
+
+
+From the mentorship table we have created we have 500K mentorship eligible candidates to handle the forthcoming “silver tsunami” 
 
 
