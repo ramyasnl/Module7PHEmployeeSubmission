@@ -5,7 +5,7 @@ Also we write a report that summarizes the analysis and helps prepare Bobby’s 
 ##Strategic analysis  ##<br/>
 Data inputs are in 6 csv files ,for the above analysis we need only 3 of them employees,dept_emp,titles.<br/>
 
-![alt text](https://github.com/ramyasnl/Module7PHEmployeeSubmission/blob/main/screenshots/ERD1.png | width =100)<br/>
+![](https://github.com/ramyasnl/Module7PHEmployeeSubmission/blob/main/screenshots/ERD1.png | 100x100)<br/>
 
 Step 1: Create schema tables in our database and fill them up with the data from corresponding csv files.<br/>
 Step 2: Create a new table called'retirement_titles' by combining the columns from 'employee_table' and 'titles'and exported as corresponding csv<br/>
