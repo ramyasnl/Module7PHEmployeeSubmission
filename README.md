@@ -55,10 +55,13 @@ From this table we come to the conclusion that 30K of  Senior Engineers , Senior
 the best way to handle this is by promoting the eligible current employees in the role of Engineer ,Staff as Seniors and filling their places<br/> 
 by freshly recruteing and training 40 K new members, which can be done through multiple phases of recruitment.<br/>
 
-<img src="https://github.com/ramyasnl/Module7PHEmployeeSubmission/blob/main/screenshots/2021-03-20%20(6).png" width="500" height="400"/><br/>
+<img src="https://github.com/ramyasnl/Module7PHEmployeeSubmission/blob/main/screenshots/2021-03-20%20(6).png" width="500" height="200"/><br/>
 
 
-From the mentorship table we have created we have 1.5K mentorship eligible candidates to handle the forthcoming “silver tsunami” ,
-which can be a  warning to speed up the recruitment process.
+From the mentorship table we have created we have 1.5K mentorship eligible candidates to handle the forthcoming “silver tsunami” ,<br/>
+which can be a  warning to speed up the recruitment process and to use the available knowledge base to train the new comers.<br/>
+Our analysis can be improvised by extracting the number of beginners inside the company according to which the number of recruitment can be precised<br/>
 
+ 
+ 
 
