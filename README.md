@@ -27,3 +27,6 @@ Step 8 : Mentorship Eligibility table is created from 'employees' and 'titles' <
 Step 9 : Using DISTINCT ON ,ORDER BY <INTO we created the 'mentorship_eligibility_table'<br/>
 Step 10 : Table we created is exported to 'mentorship_eligibility.csv' 
 ![alt text](https://github.com/ramyasnl/Module7PHEmployeeSubmission/blob/main/screenshots/mentorship.png)<br/>
+
+
+<img src="https://github.com/ramyasnl/Module7PHEmployeeSubmission/blob/main/screenshots/mentorship.png" width="100" height="100"/>
