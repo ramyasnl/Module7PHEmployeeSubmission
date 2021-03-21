@@ -1,8 +1,12 @@
 # Module7PHEmployeeSubmission<br/>
+
 #Overview of the analysis#<br/>
-Our aim here is to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program using postgresql. <br/>
+
+Our aim  is to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program using postgresql. <br/>
 Also we write a report that summarizes the analysis and helps prepare Bobby’s manager for the “silver tsunami” as many current employees reach retirement age.<br/>
+
 ##Strategic analysis  ##<br/>
+
 Data inputs are in 6 csv files ,for the above analysis we need only 3 of them employees,dept_emp,titles.<br/>
 
 <img src="https://github.com/ramyasnl/Module7PHEmployeeSubmission/blob/main/screenshots/ERD1.png" width="500" height="400"/>
@@ -30,7 +34,8 @@ Step 7: Since we need the count of employees ready for retirement by their curre
 Step 8 : Mentorship Eligibility table is created from 'employees' and 'titles' <br/>
 Step 9 : Using DISTINCT ON ,ORDER BY <INTO we created the 'mentorship_eligibility_table'<br/>
 Step 10 : Table we created is exported to 'mentorship_eligibility.csv' 
+
 ![alt text](https://github.com/ramyasnl/Module7PHEmployeeSubmission/blob/main/screenshots/mentorship.png)<br/>
 
 
-<img src="https://github.com/ramyasnl/Module7PHEmployeeSubmission/blob/main/screenshots/mentorship.png" width="100" height="100"/>
+
