@@ -20,7 +20,7 @@ Step 4: Filter the data on the birth_date column to retrieve the employees who w
 Step 5: Export the Retirement Titles table from the previous step as retirement_titles.csv and save it to your Data folder in the Pewlett-Hackard-Analysis folder.<br/>
 Step 6: Using the starter code we do DISTINCT ON and we create another table "unique_titles"and exported as corresponding csv</br>
 
-<img src="https://github.com/ramyasnl/Module7PHEmployeeSubmission/blob/main/screenshots/unique%20titles2.png" width="900" height="500"/>
+<img src="https://github.com/ramyasnl/Module7PHEmployeeSubmission/blob/main/screenshots/unique%20titles2.png" width="1000" height="700"/>
 
 
 Step 7: Since we need the count of employees ready for retirement by their current title  we use GRUOPBY & COUNT to generate "retiring_titles.csv"</br>
